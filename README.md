@@ -1,0 +1,1 @@
+# laravel_october_plugin
