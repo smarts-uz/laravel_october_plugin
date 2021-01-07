@@ -1,0 +1,10 @@
+columns:
+    name:
+        label: 'watchlearn.movies::lang.name'
+        type: text
+        searchable: true
+        sortable: true
+    description:
+        label: 'watchlearn.movies::lang.enter_description'
+        type: text
+        searchable: true

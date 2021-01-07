@@ -1,0 +1,12 @@
+fields:
+    name:
+        label: 'watchlearn.movies::lang.name'
+        span: full
+        placeholder: 'watchlearn.movies::lang.enter_name'
+        required: 1
+        type: text
+    description:
+        label: 'watchlearn.movies::lang.enter_description'
+        size: small
+        span: full
+        type: richeditor

@@ -1,0 +1,15 @@
+plugin:
+    name: 'watchlearn.movies::lang.plugin.name'
+    description: 'watchlearn.movies::lang.plugin.description'
+    author: watchlearn
+    icon: oc-icon-video-camera
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: 'watchlearn.movies::lang.plugin.name'
+        url: /welcome_movies
+        icon: icon-power-off
+    main-menu-item2:
+        label: Welcome
+        url: /welcome_movies
+        icon: icon-life-ring
